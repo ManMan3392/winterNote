@@ -1,0 +1,31 @@
+{
+  "hash": "05dcf6ce",
+  "configHash": "a6072b66",
+  "lockfileHash": "40d50fb3",
+  "browserHash": "6bebeee0",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/.pnpm/vue@3.5.25/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "11f3a20b",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/.pnpm/@vue+devtools-api@8.0.5/node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "a47088e9",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../../node_modules/.pnpm/@vueuse+core@14.1.0_vue@3.5.25/node_modules/@vueuse/core/dist/index.js",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "ca5feb71",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-BECINA54": {
+      "file": "chunk-BECINA54.js"
+    }
+  }
+}
